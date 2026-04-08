@@ -6,7 +6,7 @@
 * [A Ranking of My Favorite Languages](#a-ranking-of-my-favorite-languages)
 * [My Favorite Resources](#my-favorite-resources)
 * [Where to Find My Ignored Files](#where-to-find-my-ignored-files)
-* [Want to See Some of My Progress?](#want-to-see-more-of-my-progress)
+* [Want to See Some of My Progress Behind the Scenes?](#want-to-see-some-of-my-progress-behind-the-scenes)
 ## My Favorite Quote
 
 > It is *possible* to commit ~~some~~ **no** mistakes and <ins>still</ins> lose. That is not weakness that is life" - Jean-Luc Picard 
@@ -45,6 +45,6 @@ int main() {
 - [ ]  truthfulness 
 - [ ]  organization
 
-## Want to See Some of My Progress?
+## Want to See Some of My Progress Behind the Scenes?
 
 ![Screenshot](/screenshots/Screenshot from 2026-04-07 23-22-15.png)
