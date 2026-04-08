@@ -42,3 +42,7 @@ int main() {
 - [] breadth
 - [] truthfulness 
 - [] organization
+
+# Want to See Some of My Progress?
+
+![Screenshot](/screenshots/Screenshot from 2026-04-07 23-22-15.png)
