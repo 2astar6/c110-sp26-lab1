@@ -39,9 +39,9 @@ int main() {
 
 # Things I Still Have to Improve on My Page
 
-- [] breadth
-- [] truthfulness 
-- [] organization
+- [ ] breadth
+- [ ] truthfulness 
+- [ ] organization
 
 # Want to See Some of My Progress?
 
