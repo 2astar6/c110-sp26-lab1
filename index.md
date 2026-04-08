@@ -1,17 +1,17 @@
-## About Me
+# About Me
 
-# Contents
+## Contents
 * [My Favorite Quote](#my-favorite-quote)
 * [Some Code in My Favorite Language](#some-code-in-my-favorite-language)
 * [A Ranking of My Favorite Languages](#a-ranking-of-my-favorite-languages)
 * [My Favorite Resources](#my-favorite-resources)
 * [Where to Find My Ignored Files](#where-to-find-my-ignored-files)
-
-# My Favorite Quote
+* [Want to See Some of My Progress?](#want-to-see-more-of-my-progress)
+## My Favorite Quote
 
 > It is *possible* to commit ~~some~~ **no** mistakes and <ins>still</ins> lose. That is not weakness that is life" - Jean-Luc Picard 
 
-# Some Code in My Favorite Language
+## Some Code in My Favorite Language
 
 ```
 int main() {
@@ -20,29 +20,31 @@ int main() {
 }
 ```
 
-# A Ranking of My Favorite Languages
+## A Ranking of My Favorite Languages
 
 1. C++
 2. C
 3. Python
-4. Java
-5. JavaScript
+4. HTML?
+5. CSS?
+6. Java
+7. JavaScript
 
-# My Favorite Resources
+## My Favorite Resources
 
 * [Reddit](https://www.reddit.com/)
 * [StackOverflow](https://stackoverflow.com/questions)
 
-# Where to Find My Ignored Files
+## Where to Find My Ignored Files
 
 [/.gitignore](https://github.com/2astar6/c110-sp26-lab1/blob/new-read-me/.gitignore)
 
-# Things I Still Have to Improve on My Page
+## Things I Still Have to Improve on My Page
 
-- [ ] breadth
-- [ ] truthfulness 
-- [ ] organization
+- [ ]  breadth
+- [ ]  truthfulness 
+- [ ]  organization
 
-# Want to See Some of My Progress?
+## Want to See Some of My Progress?
 
 ![Screenshot](/screenshots/Screenshot from 2026-04-07 23-22-15.png)
