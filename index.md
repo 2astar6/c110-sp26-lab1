@@ -7,6 +7,7 @@
 * [My Favorite Resources](#my-favorite-resources)
 * [Where to Find My Ignored Files](#where-to-find-my-ignored-files)
 * [Want to See Some of My Progress Behind the Scenes?](#want-to-see-some-of-my-progress-behind-the-scenes)
+
 ## My Favorite Quote
 
 > It is *possible* to commit ~~some~~ **no** mistakes and <ins>still</ins> lose. That is not weakness that is life" - Jean-Luc Picard 
