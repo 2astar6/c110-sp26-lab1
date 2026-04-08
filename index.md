@@ -35,7 +35,7 @@ int main() {
 
 # Where to Find My Ignored Files
 
-[/.gitignore](/.gitignore)
+[/.gitignore](https://github.com/2astar6/c110-sp26-lab1/blob/new-read-me/.gitignore)
 
 # Things I Still Have to Improve on My Page
 
